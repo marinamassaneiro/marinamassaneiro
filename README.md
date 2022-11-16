@@ -12,3 +12,5 @@
 And I had a contact with these other tools:
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" style="height: 30px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" style="height: 30px;"/>
+  
+  Welcome to my GitHub. :smiley:
