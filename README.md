@@ -1,4 +1,4 @@
-### Hi! I'm Marina Massaneiro and I'm starting in the technology area! :nerd_face:
+### Hi! I'm Marina Massaneiro and I'm starting in technology! :nerd_face:
 
  In my firsts projects I had contact and learned about these tools:
  
